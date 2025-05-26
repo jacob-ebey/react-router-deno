@@ -34,6 +34,6 @@ jobs:
         with:
           project: "react-route-deno-test"
           entrypoint: "server.ts"
-          root: "."
+          root: ""
           include: build
           
